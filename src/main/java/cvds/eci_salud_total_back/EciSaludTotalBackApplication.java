@@ -5,9 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class EciSaludTotalBackApplication {
-
-	public static void main(String[] args) {
-		SpringApplication.run(EciSaludTotalBackApplication.class, args);
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(EciSaludTotalBackApplication.class, args);
+    }
 }
